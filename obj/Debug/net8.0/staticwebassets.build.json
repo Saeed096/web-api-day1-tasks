@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "55lJigFK3TxT3UpbDQ9stemWohts0JJ62JEFvoyfw4c=",
+  "Source": "task1",
+  "BasePath": "_content/task1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "task1\\wwwroot",
+      "Source": "task1",
+      "ContentRoot": "E:\\iti\\api\\day1\\tasks\\task1\\wwwroot\\",
+      "BasePath": "_content/task1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
